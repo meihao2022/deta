@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#UUID="c5f8a155-1a37-4394-949e-bdc2f586590b"
+#UUID="42428b37-a05c-4258-bef0-7fafcbc78d05"
 #APP_NAME="www"
 
 REGION="hkg"
